@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816448297152",
+    "project_id": "towerdefensegame-bbe2e",
+    "storage_bucket": "towerdefensegame-bbe2e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816448297152:android:083968a065721af485f525",
+        "android_client_info": {
+          "package_name": "com.example.towerdefencegame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwA-hlEkTWOvp0LBs6Qkl8IrONcJWJl4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
